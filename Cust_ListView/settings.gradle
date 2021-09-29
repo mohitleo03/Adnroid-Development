@@ -1,0 +1,2 @@
+rootProject.name = "Cust_ListView"
+include ':app'

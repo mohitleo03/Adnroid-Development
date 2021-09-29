@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bake My Day</string>
+    <string name="welcome">Experience the best of baking with us</string>
+    <string name="sale">Christmas Bake Sale</string>
+    <string name="tagline">Get lip-smacking delicacies delivered to your Doorstep.</string>
+    <string name="address">Ground Floor, XYZ Mall, Vasant Kunj, New Delhi</string>
+</resources>
